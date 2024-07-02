@@ -96,7 +96,7 @@
     "eth-ens-namehash": "^2.0.8",
     "eth-gas-reporter": "latest",
     "ethereumjs-testrpc-sc": "^6.5.1-sc.1",
-    "hardhat": "^2.8.0",
+    "hardhat": "^2.11.0",
     "hardhat-contract-sizer": "^2.5.0",
     "hardhat-gas-reporter": "1.0.8",
     "husky": "^4.3.0",
@@ -125,7 +125,7 @@
     "node-gyp": "^8.4.1",
     "openzeppelin-solidity": "2.0.0",
     "patch-package": "^6.4.7",
-    "solidity-bytes-utils": "0.0.6",
+    "solidity-bytes-utils": "0.0.9",
     "yargs": "^16.0.3"
   },
   "husky": {
