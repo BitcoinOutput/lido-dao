@@ -101,7 +101,7 @@
     "hardhat-gas-reporter": "1.0.8",
     "husky": "^4.3.0",
     "ipfs-http-client": "^55.0.0",
-    "lerna": "^3.22.1",
+    "lerna": "^6.5.0",
     "lint-staged": ">=10",
     "prettier": "^2.1.2",
     "solhint": "^3.2.2",
